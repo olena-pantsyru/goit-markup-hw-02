@@ -111,7 +111,7 @@ font-weight: 500;
   background-color: #f4f4fd;
 }
 .title-team {
-  font-weight: 700;
+    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -121,7 +121,7 @@ font-weight: 500;
 .team-card {
   background-color: #fff;
 
-  border-radius: 0 0 4px 4px;
+    border-radius: 0 0 4px 4px;
     padding: 0px 0px 32px 0px;
     width: 264px;
     height: 380px;
@@ -129,7 +129,7 @@ font-weight: 500;
     
 }
 .name-team-persons {
-  font-weight: 500;
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -143,3 +143,28 @@ font-weight: 500;
   text-align: center;
   color: #434455;
 }
+
+/* portfolio */
+
+.title-portfolio {
+    font-weight: 700;
+    font-size: 36px; 
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+ .portfolio-titel {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+ }
+
+ .portfolio-text {
+    font-size: 16px; 
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+ }
