@@ -68,14 +68,14 @@
     color: #fff;
 }
 .button-hero {
-  border-radius: 4px;
-    padding: 16px 32px;
-    width: 169px;
-    height: 56px;
+    font-size: 16;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     color: #fff;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
     font-family: inherit;
+    cursor: pointer;
 }
 .button-hero:hover,
 .button-hero:focus {
@@ -115,13 +115,6 @@ font-weight: 500;
 }
 .team-card {
   background-color: #fff;
-
-    border-radius: 0 0 4px 4px;
-    padding: 0px 0px 32px 0px;
-    width: 264px;
-    height: 380px;
-    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-    
 }
 .name-team-persons {
     font-weight: 500;
