@@ -17,7 +17,7 @@
 
     /* header */
 
-  .header-logo {
+  .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px; 
@@ -27,7 +27,7 @@
     color: #4d5ae5;
   }
 
-  .logo-part {
+  .header-logo .logo-part {
     color: #2e2f42;
   }
 
@@ -161,16 +161,8 @@ font-weight: 500;
 
  /* footer */
 
- .footer-logo {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
-  }
-  .logo-part-footer {
+ 
+  .footer-page .logo-part{
        color: #f4f4fd;
      }
 
